@@ -51,7 +51,7 @@ Due to temporary LLM API resource exhaustion, final evaluation runs used cached 
 ## Implementation & analysis:
 Refer to `task 1/task1_rating_prediction.ipynb` for full code, prompts, and evaluation logic.
 
-## Task 2: AI Feedback System
+# Task 2: AI Feedback System
 
 A production-ready web application with two dashboards:
 - **User Dashboard**: Public-facing feedback submission interface
